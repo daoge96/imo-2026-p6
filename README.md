@@ -1,5 +1,7 @@
 # IMO 2026 Problem 6 — an autonomous multi-agent attempt, and the proof it produced
 
+> 中文版：[README.zh.md](README.zh.md) · English below.
+
 **Problem (IMO 2026, Problem 6).** Let $a_1>1$ be an integer and define $a_{n+1}$ to be the smallest integer greater than $a_n$ that shares a common prime factor with **every** earlier term. Prove that there exist positive integers $T,L$ with $a_{n+T}=a_n+L$ for all $n\ge 1$.
 
 **Result.** This repository contains a complete, unconditional, self-contained proof.
