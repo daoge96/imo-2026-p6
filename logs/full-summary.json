@@ -1,0 +1,78 @@
+{
+ "mode": "full",
+ "started": "2026-10-10 12:53:59",
+ "python": "3.12.14",
+ "tasks": [
+  "tcl"
+ ],
+ "argv": "--a1 15,35,385,15015 --tasks tcl",
+ "seed": 20261010,
+ "tcl": [
+  {
+   "a1": 15,
+   "M": 402,
+   "Nstar": 3,
+   "n_dangerous": 3,
+   "last_dangerous": 3,
+   "nterms": 403,
+   "stable": true,
+   "range_insufficient": false,
+   "two_a1sq": 450,
+   "Nstar_le_2a1sq": true,
+   "primorial_2a1_gt_2a1sq": true,
+   "ucl_ok_at_Nstar": true,
+   "ucl_witness": null,
+   "fail_at_Nstar_minus1": true
+  },
+  {
+   "a1": 35,
+   "M": 403,
+   "Nstar": 4,
+   "n_dangerous": 4,
+   "last_dangerous": 4,
+   "nterms": 404,
+   "stable": true,
+   "range_insufficient": false,
+   "two_a1sq": 2450,
+   "Nstar_le_2a1sq": true,
+   "primorial_2a1_gt_2a1sq": true,
+   "ucl_ok_at_Nstar": true,
+   "ucl_witness": null,
+   "fail_at_Nstar_minus1": true
+  },
+  {
+   "a1": 385,
+   "M": 437,
+   "Nstar": 38,
+   "n_dangerous": 8,
+   "last_dangerous": 38,
+   "nterms": 438,
+   "stable": true,
+   "range_insufficient": false,
+   "two_a1sq": 296450,
+   "Nstar_le_2a1sq": true,
+   "primorial_2a1_gt_2a1sq": true,
+   "ucl_ok_at_Nstar": true,
+   "ucl_witness": null,
+   "fail_at_Nstar_minus1": true
+  },
+  {
+   "a1": 15015,
+   "M": 1692,
+   "Nstar": 1293,
+   "n_dangerous": 298,
+   "last_dangerous": 1293,
+   "nterms": 1693,
+   "stable": true,
+   "range_insufficient": false,
+   "two_a1sq": 450900450,
+   "Nstar_le_2a1sq": true,
+   "primorial_2a1_gt_2a1sq": true,
+   "ucl_ok_at_Nstar": true,
+   "ucl_witness": null,
+   "fail_at_Nstar_minus1": true
+  }
+ ],
+ "finished": "2026-10-10 12:53:59",
+ "seconds": 0.06
+}
